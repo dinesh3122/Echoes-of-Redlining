@@ -1,5 +1,5 @@
-# Echoes-of-Redlining
+# Echoes of Redlining
 
 ![Dashboard Preview](Echoes-of-Redlining.png)(https://public.tableau.com/app/profile/dinesh.rustagi/viz/EchoesofRedlining/FinalPresentation)
 
-This dashboard presents a full portfolio analytics case study, highlighting return multiples, profit, total invested capital, and alpha generation. It visualizes portfolio value growth over time, sector and round-level equity composition, adjusted alpha by company, and the relationship between post-money valuations and IRR. Additional metrics—such as overall IRR, benchmark IRR, and valuation multiples—provide a clear view of portfolio performance and value creation across investments.
+This project investigates the relationship between historic redlining and modern policing patterns in San Francisco. I transposed historic redlining maps onto modern SF neighborhoods using QGIS to identify areas with a history of discriminatory housing practices. Using aggregated traffic stop data by race, I analyzed policing trends and found that Black individuals are stopped 8.5% more per capita than White individuals, highlighting racial disparities. I created an interactive Tableau data story to visualize these patterns and presented the findings to my class, demonstrating how historical factors can influence contemporary enforcement practices.
